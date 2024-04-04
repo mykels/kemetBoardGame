@@ -1,0 +1,13 @@
+{
+    "rootDir": ".", 
+    "compilerOptions": {
+      "target": "es5",
+      "module": "none",
+      "lib": ["dom", "esnext"],  
+      "sourceMap": false,
+      "outFile": "kemet.js",
+    },
+    "files": [
+        "src/kemet.ts"
+    ]
+}
